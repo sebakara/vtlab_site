@@ -1,0 +1,395 @@
+.top-header-address {
+    text-align: right
+}
+
+.top-header-address span {
+    border-left: 2px solid #0000002a;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+    margin-left: 15px;
+    padding-left: 15px
+}
+
+.top-header-address span:last-child {
+    border-right: none;
+    border: none
+}
+
+.top-header-address span i {
+    padding-right: 0;
+    padding-left: 5px
+}
+
+.top-header-area .top_right {
+    float: left
+}
+
+.top-header-social-links ul li a {
+    padding-left: 0;
+    padding-right: 15px
+}
+
+.header-search {
+    margin-right: 0;
+    margin-left: 40px
+}
+
+.logo {
+    text-align: right
+}
+
+.hero-content {
+    text-align: right
+}
+
+.about-area .section-title-two {
+    text-align: right
+}
+
+.section-title-two h1 {
+    padding-right: 0;
+    padding-left: 50px
+}
+
+.single-service-content {
+    text-align: right
+}
+
+.single-service-bg span {
+    left: auto;
+    right: 0
+}
+
+.testimonial-author-details {
+    text-align: right
+}
+
+.single-team-content {
+    text-align: right
+}
+
+.single-blog-details {
+    text-align: right
+}
+
+.single-blog-details span {
+    margin-left: 20px;
+    margin-right: 0
+}
+
+.single-blog-details span i {
+    padding-right: 0;
+    padding-left: 5px
+}
+
+.footer-wedget {
+    text-align: right
+}
+
+.footer-wedget form input {
+    padding-left: 0;
+    padding-right: 20px
+}
+
+.bootom-footer-text {
+    text-align: right
+}
+
+ul.footer-social-links {
+    text-align: left
+}
+
+.footer-social-links li a {
+    margin-left: 0;
+    margin-right: 10px
+}
+
+.about-area .about-btn {
+    float: right
+}
+
+.section-title-two {
+    text-align: right
+}
+
+.section-title-two:after,
+.section-title-two:before {
+    left: auto;
+    right: 0
+}
+
+.project-counter-area .single-counter-item {
+    text-align: center
+}
+
+.blog-area .blog-link,
+.cta-area .main-btn,
+.project-area .main-btn,
+.project-area .project-btn {
+    float: left
+}
+
+.cta-area h1 {
+    text-align: right
+}
+
+.main-menu ul li>ul.sub-menu li>a {
+    text-align: right
+}
+
+.main-menu ul li>ul.sub-menu {
+    left: auto
+}
+
+li.submenus::after {
+    content: "\f100";
+    left: 30px
+}
+
+li.submenus ul {
+    left: auto;
+    right: 100%
+}
+
+.main-menu ul li ul.mega-menu li.mega-item {
+    text-align: right
+}
+
+.single-about-item p {
+    float: right
+}
+
+.single-about-item h4 {
+    margin-right: 100px;
+    text-align: right
+}
+
+.top-header-language li>a i:first-child {
+    margin-left: 3px
+}
+
+.single-about-item h4 {
+    margin-left: 0
+}
+
+.top-header-language li ul.language-dropdown {
+    text-align: right
+}
+
+.top-header-social-links {
+    border-right: 2px solid #0000002a;
+    padding-right: 5px
+}
+
+.top-header-language {
+    border-right: none;
+    padding-right: 0;
+    padding-left: 15px
+}
+
+a.meanmenu-reveal {
+    right: auto !important;
+    left: 0 !important
+}
+
+@media (max-width:991px) {
+    .cleaning-main-btn.header-bgn {
+        margin-right: 0px;
+        padding: 14px 30px;
+        margin-left: 38px;
+    }
+    .blog-area .blog-link,
+    .cta-area .main-btn,
+    .project-area .main-btn,
+    .project-area .project-btn {
+        float: right
+    }
+    .mean-container a.meanmenu-reveal {
+        right: auto !important;
+        left: 20px !important
+    }
+    .top-header-address span {
+        border-left: none;
+        margin-left: 0
+    }
+    .top-header-social-links {
+        border-right: none;
+        padding-right: 0
+    }
+    .top-header-social-links ul li a {
+        padding-right: 6px
+    }
+}
+
+@media (max-width:767px) {
+    .top-header-address {
+        text-align: center
+    }
+    .top-header-area .top_right {
+        float: none
+    }
+    ul.footer-social-links {
+        text-align: center
+    }
+}
+
+.header-navigation .nav-container .main-menu ul>li.menu-item-has-children>a:after {
+    margin-left: 0;
+    margin-right: 5px
+}
+
+.header-navigation .nav-container .main-menu ul li .mega-menu,
+.header-navigation .nav-container .main-menu ul li .sub-menu {
+    text-align: right
+}
+
+.categorie-box .main-btn {
+    right: auto;
+    left: 20px
+}
+
+.course-item .course-img .course-overlay .rating p i {
+    margin-right: 0;
+    margin-left: 4px
+}
+
+.course-details-section .course-content ul.info li span,
+.course-item .course-content .course-admin-price .price {
+    margin-left: 0;
+    margin-right: 15px
+}
+
+.course-item .course-content .course-meta span {
+    margin-right: 0;
+    margin-left: 15px
+}
+
+.course-item .course-content .course-meta span i {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.course-item .course-content .course-admin-price .admin img {
+    margin-left: 10px;
+    margin-right: 0
+}
+
+.courses-sidebar .widget-box {
+    text-align: right
+}
+
+.categories-widget ul li a span {
+    float: left
+}
+
+.single_checkbox label span.text b,
+.single_radio label span.text b {
+    right: auto;
+    left: 0
+}
+
+.single_checkbox label span.text,
+.single_radio label span.text {
+    margin-left: 0;
+    margin-right: 10px
+}
+
+.course-details-section .course-content .button .order-btn {
+    margin-left: 0;
+    margin-right: 10px
+}
+
+.discription-area .content-box {
+    text-align: right
+}
+
+.course-details-section .discription-area .discription-tabs .nav-tabs .nav-link,
+.course-videos-section .video_list ul li a i,
+.discription-area .content-box .card .card-body ul li a i,
+.social-link li {
+    margin-right: 0;
+    margin-left: 10px
+}
+
+.course-videos-section .video_list ul li a span.duration,
+.courses-grid-style .course-filter .search_group,
+.discription-area .content-box .card .card-body ul li a span.duration {
+    float: left
+}
+
+.course-details-section .course-content,
+.course-item,
+.course-videos-section .video_list,
+.discription-area .instructor-wrap,
+.discription-area .shop-review-area {
+    text-align: right
+}
+
+.discription-area .instructor-wrap .content {
+    margin-left: 0;
+    margin-right: 30px
+}
+
+.discription-area .shop-review-area .review_user {
+    padding-left: 0;
+    padding-right: 100px
+}
+
+.discription-area .shop-review-area .review_user img {
+    left: auto;
+    right: 0
+}
+
+.footer-widget .widget-box {
+    text-align: right
+}
+
+.footer-area .footer-widget .useful-link-widget ul li a:before,
+.footer-area .footer-widget .widget-box.contact-widget p i {
+    margin-right: 0;
+    margin-left: 10px
+}
+
+.copyright-area .use-link {
+    text-align: right
+}
+
+.copyright-area .copyright-text {
+    float: left
+}
+
+.nav-push-item .menu-box .main-btn i,
+.nav-pushed-item .menu-box .main-btn i {
+    margin-left: 0;
+    margin-right: 20px
+}
+
+.single_checkbox label .box:after,
+.single_radio label .circle:after {
+    left: 45%
+}
+
+.price-range-widget input {
+    width: 70%;
+    border: none
+}
+
+.course-details-section .course-content p.price span.off-price {
+    margin-left: 10px
+}
+
+.course-videos-section .video_list .content-box .card .card-header .toggle_btn,
+.discription-area .content-box .card .card-header .toggle_btn {
+    float: left
+}
+
+.course-videos-section .video_list .content-box .card .card-body ul li a span.duration {
+    float: left
+}
+
+.top-header-social-links {
+    margin-right: 25px !important;
+    margin-left: 25px;
+    margin-right: 0 !important
+}

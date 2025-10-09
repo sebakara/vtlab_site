@@ -1,0 +1,31 @@
+
+
+.pagebuilder-content .cell {
+    text-align: right !important;
+    direction: rtl !important;
+}
+.pagebuilder-content .pbcontainer {
+    direction: rtl;
+}
+.pagebuilder-content .countdown {
+    direction: ltr !important;
+}
+.pagebuilder-content .navbar-items-c {
+    float: left !important;
+}
+.pagebuilder-content .navbar-brand {
+    margin-right: auto !important;
+    margin-left: 1rem !important;
+}
+
+.pagebuilder-content input[type="submit"], .pagebuilder-content button[type="submit"] {
+    float: none !important;
+}
+.pagebuilder-content .tab-container {
+    direction: rtl !important;
+    text-align: right !important;
+}
+.pagebuilder-content .tab-content {
+    direction: rtl !important;
+    text-align: right !important;
+}

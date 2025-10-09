@@ -1,0 +1,380 @@
+.header_v1 .top_header .top_left{
+    text-align:right
+}
+.header_v1 .top_header .top_left span{
+    margin-right:0;
+    margin-left:35px
+}
+.header_v1 .top_header .top_left span i{
+    margin-right:0;
+    margin-left:10px
+}
+.header_v1 .top_header .top_right{
+    float:left
+}
+.header_v1 .top_header .top_right .dropdown .btn i{
+    margin-right:0;
+    margin-left:10px
+}
+.header_v1 .header_navigation .site_menu .button_box{
+    float:left
+}
+.header_v1 .header_navigation .site_menu .button_box .finlance_btn{
+    margin-left:0;
+    margin-right:50px
+}
+.main-menu ul li>ul.sub-menu{
+    text-align:right
+}
+.main-menu ul li ul.mega-menu li.mega-item ul{
+    text-align:right
+}
+.banner_v1 .single_slider .banner_content{
+    text-align:right
+}
+.finlance_btn:after{
+    padding-left:0;
+    padding-right:10px
+}
+.feature_v1 .grid_item .finlance_content{
+    margin-left:0;
+    margin-right:25px;
+    text-align:right
+}
+.btn_link:after{
+    padding-left:0;
+    padding-right:10px;
+    margin-bottom:3px
+}
+.about_v1 .finlance_content_box{
+    text-align:right
+}
+.about_v1 .section_title{
+    padding-right:0;
+    padding-left:195px
+}
+.section_title span.line-circle:after{
+    margin-left:0;
+    margin-right:20px
+}
+.testimonial_v1 .testimonial_slide .testimonial_box{
+    text-align:right
+}
+.testimonial_v1 .testimonial_slide .testimonial_box .quote{
+    right:auto;
+    left:55px
+}
+.testimonial_v1 .testimonial_slide .testimonial_box .client_box .info{
+    margin-right:30px;
+    margin-left:0;
+    text-align:right
+}
+.project_slide .grid_item{
+    direction:ltr
+}
+.we_do_v1 .finlance_content_box{
+    padding-right:0;
+    text-align:right;
+    padding-left:130px
+}
+.we_do_v1 .finlance_icon_box .icon_list .text{
+    margin-left:0;
+    text-align:right;
+    margin-right:45px
+}
+.counter_box{
+    text-align:right
+}
+.pricing_v1 .pricing_box{
+    direction:ltr
+}
+.blog_v1 .grid_item .finlance_content{
+    text-align:right
+}
+.blog_v1 .grid_item .finlance_content .post_meta span i{
+    margin-right:0;
+    margin-left:10px
+}
+.blog_v1 .grid_item .finlance_content .post_meta span{
+    margin-right:0;
+    margin-left:25px
+}
+.cta_v1 .section_title{
+    text-align:right
+}
+.cta_v1 .button_box{
+    float:left
+}
+.footer_v1 .widget_box{
+    text-align:right
+}
+.footer_v1 .contact_widget{
+    margin-left:0;
+    margin-right:45px
+}
+.footer_v1 .footer_bottom .copyright_text{
+    text-align:right
+}
+.footer_v1 .footer_bottom .social_box{
+    float:left
+}
+.testimonial_v1 .testimonial_slide .slick-prev{
+    left:auto;
+    transform:translateX(47%) rotate(-180deg);
+    right:47%
+}
+.testimonial_v1 .testimonial_slide .slick-next{
+    right:auto;
+    transform:translateX(-47%) rotate(180deg);
+    left:47%
+}
+.testimonial_v1 .testimonial_slide .slick-arrow:after{
+    left:auto;
+    right:-30px;
+    bottom:7px
+}
+.hero_slide_v1 .slick-prev{
+    left:auto;
+    right:-100%
+}
+.hero_slide_v1 .slick-next{
+    right:auto;
+    left:-100%
+}
+.hero_slide_v1:hover .slick-prev{
+    left:auto;
+    right:60px
+}
+.hero_slide_v1:hover .slick-next{
+    right:auto;
+    left:60px
+}
+.blog_slide .slick-prev:before,.hero_slide_v1 .slick-prev:before,.pricing_slide .slick-prev:before,.project_slide .slick-prev:before,.team_slide .slick-prev:before{
+    content:'\f104';
+    transform:rotate(180deg)
+}
+.blog_slide .slick-next:before,.hero_slide_v1 .slick-next:before,.pricing_slide .slick-next:before,.project_slide .slick-next:before,.team_slide .slick-next:before{
+    content:'\f105';
+    transform:rotate(180deg)
+}
+.blog_slide:hover .slick-prev,.pricing_slide:hover .slick-prev,.project_slide:hover .slick-prev,.team_slide:hover .slick-prev{
+    right:60px;
+    left:auto
+}
+.blog_slide:hover .slick-next,.pricing_slide:hover .slick-next,.project_slide:hover .slick-next,.team_slide:hover .slick-next{
+    right:auto;
+    left:60px
+}
+.blog_slide .slick-next,.pricing_slide .slick-next,.project_slide .slick-next,.team_slide .slick-next{
+    right:auto;
+    left:-60px
+}
+.blog_slide .slick-prev,.pricing_slide .slick-prev,.project_slide .slick-prev,.team_slide .slick-prev{
+    left:auto;
+    right:-60px
+}
+li.submenus::after{
+    content:"\f100";
+    left:30px;
+    right:auto
+}
+li.submenus ul{
+    right:100%;
+    left:auto
+}
+.main-menu ul li.menu-item-has-children>a:after{
+    margin-left:0;
+    margin-right:10px
+}
+.main-menu ul li ul.mega-menu{
+    text-align:right
+}
+@media only screen and (min-width:1201px) and (max-width:1400px){
+    .header_v1 .header_navigation .site_menu .button_box .finlance_btn{
+        margin-left:0;
+        margin-right:20px
+    }
+}
+@media only screen and (min-width:992px) and (max-width :1200px){
+    .about_v1 .section_title{
+        padding-left:50px
+    }
+}
+@media only screen and (min-width:768px) and (max-width :991px){
+     .header_v1 .top_header .top_right .social li {
+         margin-left: 0;
+         margin-right: 10px;
+    }
+     .header_v1 .top_header .top_left span{
+        margin-left:10px
+    }
+    .mean-container a.meanmenu-reveal {
+        left: 0 !important;
+        right: auto !important;
+    }
+}
+@media only screen and (max-width :991px){
+    .about_v1 .section_title{
+        padding-left:0
+    }
+    .we_do_v1 .finlance_content_box{
+        padding-left:0
+    }
+    .cta_v1 .button_box{
+        float:right
+    }
+    .footer_v1 .contact_widget{
+        margin-right:0
+    }
+    .mean-container a.meanmenu-reveal {
+        right: auto !important;
+        left: 0 !important;
+    }
+}
+@media only screen and (max-width :767px){
+    .header_v1 .top_header .top_left{
+        text-align:center
+    }
+    .header_v1 .top_header .top_right{
+        float:none
+    }
+    .header_v1 .top_header .top_right .social{
+        margin-right:0;
+        margin-left:40px
+    }
+    .header_v1 .top_header .top_right .social li{
+        margin-left:0;
+        margin-right:15px
+    }
+    .testimonial_v1 .testimonial_slide .slick-next{
+        left:43%
+    }
+    .testimonial_v1 .testimonial_slide .slick-prev{
+        right:43%
+    }
+    .footer_v1 .footer_bottom .copyright_text{
+        text-align:center
+    }
+    .footer_v1 .footer_bottom .social_box{
+        float:none
+    }
+    .feature_v1 .grid_item .finlance_content{
+        margin-right:0;
+        text-align:center
+    }
+}
+@media only screen and (max-width:359px){
+    .testimonial_v1 .testimonial_slide .slick-next{
+        left:40%
+    }
+    .testimonial_v1 .testimonial_slide .slick-prev{
+        right:40%
+    }
+}
+.header-navigation .nav-container .main-menu ul>li.menu-item-has-children>a:after{
+    margin-left:0;
+    margin-right:5px
+}
+.header-navigation .nav-container .main-menu ul li .mega-menu,.header-navigation .nav-container .main-menu ul li .sub-menu{
+    text-align:right
+}
+.categorie-box .main-btn{
+    right:auto;
+    left:20px
+}
+.course-item .course-img .course-overlay .rating p i{
+    margin-right:0;
+    margin-left:4px
+}
+.course-details-section .course-content ul.info li span,.course-item .course-content .course-admin-price .price{
+    margin-left:0;
+    margin-right:15px
+}
+.course-item .course-content .course-meta span{
+    margin-right:0;
+    margin-left:15px
+}
+.course-item .course-content .course-meta span i{
+    margin-right:0;
+    margin-left:5px
+}
+.course-item .course-content .course-admin-price .admin img{
+    margin-left:10px;
+    margin-right:0
+}
+.courses-sidebar .widget-box{
+    text-align:right
+}
+.categories-widget ul li a span{
+    float:left
+}
+.single_checkbox label span.text b,.single_radio label span.text b{
+    right:auto;
+    left:0
+}
+.single_checkbox label span.text,.single_radio label span.text{
+    margin-left:0;
+    margin-right:10px
+}
+.course-details-section .course-content .button .order-btn{
+    margin-left:0;
+    margin-right:10px
+}
+.discription-area .content-box{
+    text-align:right
+}
+.course-details-section .discription-area .discription-tabs .nav-tabs .nav-link,.course-videos-section .video_list ul li a i,.discription-area .content-box .card .card-body ul li a i,.social-link li{
+    margin-right:0;
+    margin-left:10px
+}
+.course-videos-section .video_list ul li a span.duration,.courses-grid-style .course-filter .search_group,.discription-area .content-box .card .card-body ul li a span.duration{
+    float:left
+}
+.course-details-section .course-content,.course-item,.course-videos-section .video_list,.discription-area .instructor-wrap,.discription-area .shop-review-area{
+    text-align:right
+}
+.discription-area .instructor-wrap .content{
+    margin-left:0;
+    margin-right:30px
+}
+.discription-area .shop-review-area .review_user{
+    padding-left:0;
+    padding-right:100px
+}
+.discription-area .shop-review-area .review_user img{
+    left:auto;
+    right:0
+}
+.footer-widget .widget-box{
+    text-align:right
+}
+.footer-area .footer-widget .useful-link-widget ul li a:before,.footer-area .footer-widget .widget-box.contact-widget p i{
+    margin-right:0;
+    margin-left:10px
+}
+.copyright-area .use-link{
+    text-align:right
+}
+.copyright-area .copyright-text{
+    float:left
+}
+.nav-push-item .menu-box .main-btn i,.nav-pushed-item .menu-box .main-btn i{
+    margin-left:0;
+    margin-right:20px
+}
+.single_checkbox label .box:after,.single_radio label .circle:after{
+    left:45%
+}
+.price-range-widget input{
+    width:70%;
+    border:none
+}
+.course-details-section .course-content p.price span.off-price{
+    margin-left:10px
+}
+.course-videos-section .video_list .content-box .card .card-header .toggle_btn,.discription-area .content-box .card .card-header .toggle_btn{
+    float:left
+}
+.course-videos-section .video_list .content-box .card .card-body ul li a span.duration{
+    float:left
+}

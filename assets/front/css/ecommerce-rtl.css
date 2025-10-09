@@ -1,0 +1,163 @@
+.header-navigation .nav-container .main-menu ul li:first-child > a {
+    padding-left: 14px;
+    padding-right: 0px;
+}
+.plus-newsletter-section .newsletter-form,
+.plus-footer .footer-widget .widget,
+.plus-newsletter-section .section-title,
+.blog-grid-section .blog-item,
+.plus-categories .section-title,
+.product-categories .section-header .section-title,
+.product-categories .shop-item,
+.plus-featured-ection .featured-slide .shop-item,
+.plus-features .features-wrapper .features-box,
+.banner-area .banner-wrapper .banner-right .hero-slide .single-hero .hero-content,
+.header-area .header-top .top-left,
+.header-navigation .nav-container .main-menu ul li .mega-menu,
+.header-navigation .brand-logo,
+.header-navigation .nav-container .main-menu ul li .sub-menu li a{
+	text-align: right;
+}
+.header-area .header-top .top-right{
+	float: left;
+}
+.banner-area .banner-wrapper .banner-right .hero-slide .single-hero .hero-content .main-btn i,
+.header-area .header-top .top-right ul li a.login i{
+	padding-left: 0px;
+	padding-right: 10px;
+}
+.header-area .header-top .top-right ul li{
+	margin-left: 0px;
+	margin-right: 50px;
+}
+.header-navigation .nav-container .nav-search .form_group i{
+	right: auto;
+	left: 20px;
+}
+.plus-features .features-wrapper .features-box .info{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.plus-features .features-wrapper .features-box:after{
+	right: auto;
+	left: 0;
+}
+.shop-item .shop-info .shop-price p.price span.off-price{
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.shop-item .shop-info .shop-price p.price:before{
+	left: auto;
+	right: -20px;
+}
+.product-categories .section-header .section-img.float-right{
+	float: left !important;
+}
+.blog-grid-section .blog-item .entry-content .post-meta ul li{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.blog-grid-section .blog-item .entry-content .post-meta ul li:after{
+	margin-left: 5px;
+    margin-right: 17px;
+}
+.blog-grid-section .blog-item .post-thumb a.cat{
+	left: auto;
+	right: 0;
+}
+.plus-newsletter-section .newsletter-form .form_group .main-btn{
+	left: 0;
+	right: auto;
+}
+.plus-footer .footer-widget .widget.recent-blog-widget .blog-item .entry-content{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.featured-slide .slick-arrow{
+	right: auto;
+	left: 10px;
+}
+.featured-slide .slick-arrow.prev{
+	right: auto;
+	left: 70px;
+}
+.featured-slide .slick-arrow.next span{
+	padding-left: 5px;
+	padding-right: 0px;
+}
+.featured-slide .slick-arrow.prev span{
+	padding-left: 0px;
+	padding-right: 5px;
+}
+.featured-tabs .nav-tabs .nav-item{
+	margin-right: 0px;
+	margin-left: 40px;
+}
+.plus-footer .footer-widget .widget.about-widget p.ip{
+	padding-left: 0px;
+	padding-right: 30px;
+}
+.plus-footer .footer-widget .widget.about-widget p.ip i{
+	left: auto;
+	right: 0;
+}
+.header-navigation .nav-container .main-menu ul > li.menu-item-has-children > a:after{
+	margin-left: 0px;
+	margin-right: 10px;
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.header-navigation .navbar-toggler{
+		float: left;
+	}
+}
+@media (max-width: 991px){
+	.header-navigation .nav-container.breakpoint-on .nav-menu .main-menu ul li .dd-trigger {
+		text-align: right;
+	}
+	.header-navigation .navbar-toggler{
+		float: left;
+	}
+	.header-area .header-top .top-left{
+		text-align: center;
+	}
+	.header-area .header-top .top-right{
+		float: none;
+	}
+	.header-area .header-top .top-right ul li{
+		margin-left: 15px;
+    	margin-right: 15px;
+	}
+}
+
+/*Mobile Device*/
+@media (max-width: 767px){
+	.banner-area .banner-wrapper .banner-left .top-tools{
+		padding-left: 0px;
+		padding-right: 10px;
+	}
+	.featured-tabs .nav-tabs .nav-item {
+	    margin-right: 0px;
+	    margin-left: 20px;
+	}
+	.plus-newsletter-section .newsletter-form .form_group .main-btn{
+		left: auto;
+	}
+}
+.nav-search .form_group i {
+    top: 18px;
+    right: auto;
+    left: 20px;
+}
+.header-navigation .nav-container .main-menu ul li .sub-menu li.submenus::after {
+    content: '\f100';
+    right: auto;
+    left: 15px;
+}
+.header-navigation .nav-container .main-menu ul li .sub-menu {
+    left: auto;
+    right: 0;
+}
+.header-navigation .nav-container.breakpoint-on .nav-menu .main-menu ul li .dd-trigger {
+	right: auto;
+	left: 0;
+}
